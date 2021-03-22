@@ -12,7 +12,7 @@ Legends of the five rings
 COMPILATION
 -----------
 
-compilation: g++ -std==c++11 *.cpp
+compilation: g++ -std=c++11 *.cpp
 
 
 
