@@ -2,10 +2,7 @@ Legends of the five rings
 ---------------------------
 
 -Goxhaj Marios
-    sdi1800031
 -Smith Pavlos
-    sdi1800181
-
 
 
 
